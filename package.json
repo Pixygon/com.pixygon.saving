@@ -1,0 +1,25 @@
+{
+  "name": "com.pixygon.saving",
+  "version": "0.5.0",
+  "displayName": "Pixygon - Saving",
+  "description": "Saving-system for Pixygon",
+  "unity": "2022.1",
+  "unityRelease": "20f1",
+  "documentationUrl": "https://www.pixygon.io/dev/micro",
+  "changelogUrl": "https://www.pixygon.io/dev/micro/changelog",
+  "licensesUrl": "https://www.pixygon.io/dev/micro/license",
+  "dependencies": {
+    "com.pixygon.PagedContent": "0.5.0"
+ },
+"hideInEditor": false,
+ "keywords": [
+    "Pixygon",
+    "Saving",
+    "Tool"
+  ],
+  "author": {
+    "name": "Pixygon",
+    "email": "pixygon@pixygon.io",
+    "url": "https://www.pixygon.io"
+  }
+}

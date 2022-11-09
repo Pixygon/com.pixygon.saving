@@ -1,0 +1,16 @@
+{
+    "name": "Pixygon.Saving",
+    "rootNamespace": "Pixygon.Saving",
+    "references": [
+        "GUID:09aec61568561f148b5b8353f7c1d22c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
