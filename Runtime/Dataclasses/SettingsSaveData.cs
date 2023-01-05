@@ -8,7 +8,7 @@ namespace Pixygon.Saving {
         public Vector3 _playerPos;
         public float _playerRot;
         public bool _hasStarted;
-        public string _waxWallet;
+        public string _waxWallet = string.Empty;
         public string _ethWallet;
         public string _eosWallet;
         public string _tezWallet;
