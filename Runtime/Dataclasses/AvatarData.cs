@@ -1,6 +1,5 @@
 using System;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 namespace Pixygon.Saving {
     [Serializable]
@@ -25,7 +24,6 @@ namespace Pixygon.Saving {
         public int _offhandEquipmentID;
         public int _currentTool;
         public int[] _toolID;
-        public int[] _weaponID;
         public int[] _ability1ID;
         public int[] _bottles;
         public bool[] _bottleFilled;
@@ -53,7 +51,6 @@ namespace Pixygon.Saving {
                 _offhandEquipmentID = old._offhandEquipmentID,
                 _currentTool = old._currentTool,
                 _toolID = old._toolID,
-                _weaponID = old._weaponID,
                 _ability1ID = old._ability1ID,
                 _bottles = old._bottles,
                 _bottleFilled = old._bottleFilled,
