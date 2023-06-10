@@ -23,6 +23,8 @@ namespace Pixygon.Saving {
         public string waxWallet;
         public string ethWallet;
         public string tezWallet;
+        public string maticWallet;
+        public string imxWallet;
         public bool artist;
         public string[] transactions;
         public string role;
