@@ -19,11 +19,13 @@ namespace Pixygon.Saving {
         //public string password;
         public string email;
         public string picturePath;
-        public string[] friends;
+        public string bio;
+        public string[] following;
+        public string[] followers;
         public string waxWallet;
         public string ethWallet;
         public string tezWallet;
-        public string maticWallet;
+        public string matWallet;
         public string imxWallet;
         public bool artist;
         public string[] transactions;
