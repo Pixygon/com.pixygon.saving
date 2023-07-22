@@ -19,6 +19,8 @@ namespace Pixygon.Saving {
         //public string password;
         public string email;
         public string picturePath;
+        public string pfpChain;
+        public bool usePfp;
         public string bio;
         public string[] following;
         public string[] followers;
@@ -37,7 +39,5 @@ namespace Pixygon.Saving {
         public int verificationCode;
         public string passwordRecoveryTime;
         public string passwordRecoveryHash;
-        public string pfpChain;
-        public bool usePfp;
     }
 }
