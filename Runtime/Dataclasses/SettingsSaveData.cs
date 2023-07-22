@@ -19,9 +19,12 @@ namespace Pixygon.Saving {
         //public string password;
         public string email;
         public string picturePath;
+        public bool usePfp;
+        public string pfpChain;
         public string bio;
         public string[] following;
         public string[] followers;
+        public string[] waxCollections;
         public string waxWallet;
         public string ethWallet;
         public string tezWallet;
@@ -32,5 +35,9 @@ namespace Pixygon.Saving {
         public string role;
         public int viewedProfile;
         public int impressions;
+        public bool isVerified;
+        public int verificationCode;
+        public string passwordRecoveryTime;
+        public string passwordRecoveryHash;
     }
 }
