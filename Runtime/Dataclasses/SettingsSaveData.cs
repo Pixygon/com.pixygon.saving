@@ -18,6 +18,7 @@ namespace Pixygon.Saving {
         public string userName;
         //public string password;
         public string email;
+        public string displayName;
         public string picturePath;
         public string pfpChain;
         public bool usePfp;
