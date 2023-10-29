@@ -2,10 +2,10 @@ using System;
 
 namespace Pixygon.Saving {
     [Serializable]
-    public class InventorySaveData {
+    public class OldInventorySaveData {
         public ItemSaveSlots[] _inventory;
 
-        public InventorySaveData(ItemSaveSlots[] slots = null) {
+        public OldInventorySaveData(ItemSaveSlots[] slots = null) {
             _inventory = slots ?? Array.Empty<ItemSaveSlots>();
         }
     }
