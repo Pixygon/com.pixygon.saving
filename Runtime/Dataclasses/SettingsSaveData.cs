@@ -31,6 +31,8 @@ namespace Pixygon.Saving {
         public string tezWallet;
         public string matWallet;
         public string imxWallet;
+        public string twitchUser;
+        public string dreadwagerSkin;
         public bool artist;
         public string[] transactions;
         public string role;
