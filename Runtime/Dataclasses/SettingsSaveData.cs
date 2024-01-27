@@ -33,6 +33,9 @@ namespace Pixygon.Saving {
         public string imxWallet;
         public string twitchUser;
         public int dreadwagerSkin;
+        public string latestActivity;
+        public string latestGame;
+        public string[] pixyGoQueue;
         public bool artist;
         public string[] transactions;
         public string role;
