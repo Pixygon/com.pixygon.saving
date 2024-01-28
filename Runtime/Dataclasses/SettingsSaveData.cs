@@ -16,7 +16,6 @@ namespace Pixygon.Saving {
     public class AccountData {
         public string _id;
         public string userName;
-        //public string password;
         public string email;
         public string displayName;
         public string picturePath;
@@ -45,5 +44,6 @@ namespace Pixygon.Saving {
         public int verificationCode;
         public string passwordRecoveryTime;
         public string passwordRecoveryHash;
+        public string[] links;
     }
 }
