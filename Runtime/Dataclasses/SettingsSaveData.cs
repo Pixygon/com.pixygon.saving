@@ -40,6 +40,10 @@ namespace Pixygon.Saving {
         public string role;
         public int viewedProfile;
         public int impressions;
+        public int gameXp;
+        public int streamerXp;
+        public int communityXp;
+        public int viewerXp;
         public bool isVerified;
         public int verificationCode;
         public string passwordRecoveryTime;
